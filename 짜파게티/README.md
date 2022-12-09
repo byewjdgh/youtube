@@ -136,13 +136,13 @@ cooking.cleanSinkAndTool();
 
 ## Built With
 
-* [집](http://www.dropwizard.io/1.0.2/docs/) - 촬영 장소
+* [집] - 촬영 장소
 * [유튜브](https://www.youtube.com/@wjdgh) - 업로드 사이트
 * [고프로, 쇼티](https://gopro.com/ko/kr/) - 촬영장비
 
 ## Contributing
 
-구독 부탁드립니다.[채널이동](https://www.youtube.com/@wjdgh)
+* [쩜식당](https://www.youtube.com/@wjdgh) - 구독 부탁드립니다.
 
 ## Authors
 
