@@ -113,6 +113,8 @@ cooking.turnOffFire();
 tools.pot.pour(ingredients.oil);
 ```
 
+### Eating
+
 맛있게 먹기
 ```
 if(ingredients.greenOnionKimchi){
