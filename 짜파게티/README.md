@@ -136,7 +136,7 @@ cooking.cleanSinkAndTool();
 
 ## Built With
 
-* [집] - 촬영 장소
+* 집 - 촬영 장소
 * [유튜브](https://www.youtube.com/@wjdgh) - 업로드 사이트
 * [고프로, 쇼티](https://gopro.com/ko/kr/) - 촬영장비
 
