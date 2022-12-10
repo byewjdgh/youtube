@@ -68,14 +68,9 @@ cooking.turnOnFire();
 tools.pot.pour(ingredients.flake);
 ```
 
-컵에 한 모금 마실 물과 분말 스프 젓가락으로 풀기
+컵에 한 모금 마실 물과 분말 스프 풀기
 ```
-dissolvedSoup 
-= tools.cup.pour(
-    ingredients.water, 
-    ingredients.soup, 
-    tools.chopsticks
-);
+dissolvedSoup = tools.cup.pour(ingredients.water, ingredients.soup);
 ```
 
 물이 끓을때 까지 기다리기
@@ -83,6 +78,11 @@ dissolvedSoup
 while(!tools.pot.isBoiled){
     me.wait();
 }
+```
+
+면 넣기
+```
+tools.pot.pour(ingredients.ramen);
 ```
 
 불 끄기(optional)
