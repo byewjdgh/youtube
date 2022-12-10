@@ -85,6 +85,13 @@ while(!tools.pot.isBoiled){
 tools.pot.pour(ingredients.ramen);
 ```
 
+면이 읽을때 까지 기다리기
+```
+while(!ingredients.ramen.isCooked){
+    me.wait();
+}
+```
+
 불 끄기(optional)
 ```
 cooking.turnOffFire();
@@ -105,6 +112,11 @@ tools.pot.pour(dissolvedSoup);
 cooking.turnOnFire();
 ```
 
+향미유 넣기
+```
+tools.pot.pour(ingredients.oil);
+```
+
 풀어진 스프가 원하는 농도가 될때까지 볶기
 ```
 while(!me.isSatisfy){
@@ -112,11 +124,13 @@ while(!me.isSatisfy){
 }
 ```
 
-불 끄고 향미유 넣기
+불 끄기
 ```
 cooking.turnOffFire();
-tools.pot.pour(ingredients.oil);
 ```
+
+
+
 
 ### Eating
 
