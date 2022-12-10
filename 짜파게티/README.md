@@ -63,6 +63,11 @@ tools.pot.pour(ingredients.water);
 cooking.turnOnFire();
 ```
 
+후레이크 넣기
+```
+tools.pot.pour(ingredients.flake);
+```
+
 컵에 한 모금 마실 물과 분말 스프 젓가락으로 풀기
 ```
 dissolvedSoup 
