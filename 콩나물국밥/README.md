@@ -125,7 +125,6 @@ tools.pot.pour(ingredients.tunaSauce);
 청양고추 넣기
 ```
 tools.pot.pour(ingredients.redPepper);
-
 ```
 
 불 끄기
@@ -137,6 +136,12 @@ cooking.turnOffFire();
 
 맛있게 먹기
 ```
+if(me.wantSpicy){
+    tools.bowl.pour(ingredients.redPepperPowder);
+}
+
+tools.bowl.pour(ingredients.pepper);
+
 me.eat();
 ```
 
