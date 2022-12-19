@@ -137,13 +137,6 @@ tools.pot.pour(ingredients.soySauce);
 tools.pot.pour(ingredients.greenOnion);
 ```
 
-간보기
-```
-if(!me.feel(salty)){
-
-}
-```
-
 ### Eating
 
 맛있게 먹기
