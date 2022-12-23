@@ -156,7 +156,7 @@ tools.pot.pour(ingredients.water);
 cooking.turnOffFire();
 ```
 
-#### 오므라이스 만들기
+#### 오므라이스용 밥 만들기
 
 불 켜기
 ```
