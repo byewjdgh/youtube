@@ -2,7 +2,17 @@
 안녕하세요.<br>
 쩜식당 입니다. 
 
+## 최근 유튜브 레시피 바로가기
+
+* [살치살 스테이크 레시피](https://github.com/byewjdgh/youtube/tree/master/20221225살치살%20스테이크)
+
+* [갈릭드레싱 레시피](https://github.com/byewjdgh/youtube/tree/master/소스레시피/갈릭드레싱)
+
+* [데미글라스 레시피](https://github.com/byewjdgh/youtube/tree/master/소스레시피/데미글라스)
+
 ## 레시피 바로가기
+
+* [살치살 스테이크 레시피](https://github.com/byewjdgh/youtube/tree/master/20221225살치살%20스테이크)
 
 * [떡국 레시피](https://github.com/byewjdgh/youtube/tree/master/20221225.떡국)
 
@@ -27,6 +37,13 @@
 * [콩나물국밥 레시피](https://github.com/byewjdgh/youtube/tree/master/20221211.콩나물국밥)
 
 * [짜파게티 레시피](https://github.com/byewjdgh/youtube/tree/master/20221209.짜파게티)
+
+## 소스 레시피 바로가기
+
+* [갈릭드레싱 레시피](https://github.com/byewjdgh/youtube/tree/master/소스레시피/갈릭드레싱)
+
+* [데미글라스 레시피](https://github.com/byewjdgh/youtube/tree/master/소스레시피/데미글라스)
+
 
 ## Contributing
 
