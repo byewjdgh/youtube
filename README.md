@@ -4,7 +4,7 @@
 
 ## 최근 유튜브 레시피 바로가기
 
-* [살치살 스테이크 레시피](https://github.com/byewjdgh/youtube/tree/master/20221225살치살%20스테이크)
+* [살치살 스테이크 레시피](https://github.com/byewjdgh/youtube/tree/master/20221225.살치살%20스테이크)
 
 * [갈릭드레싱 레시피](https://github.com/byewjdgh/youtube/tree/master/소스레시피/갈릭드레싱)
 
