@@ -12,7 +12,7 @@
 
 ## 레시피 바로가기
 
-* [살치살 스테이크 레시피](https://github.com/byewjdgh/youtube/tree/master/20221225살치살%20스테이크)
+* [살치살 스테이크 레시피](https://github.com/byewjdgh/youtube/tree/master/20221225.살치살%20스테이크)
 
 * [떡국 레시피](https://github.com/byewjdgh/youtube/tree/master/20221225.떡국)
 
