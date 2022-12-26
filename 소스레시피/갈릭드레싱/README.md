@@ -87,6 +87,10 @@ tools.bowl.mix();
 tools.microwave.heat(15, "sec");
 ```
 
+냉장보관
+``` 
+Keep it refrigerated.
+```
 ### Cleaning
 
 마늘의 알싸한 맛을 빼기위해선 냉장숙성하시면됩니다. 맛있게 드시고 정리 잘 해주세요.
