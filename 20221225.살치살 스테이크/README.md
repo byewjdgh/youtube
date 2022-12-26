@@ -112,7 +112,7 @@ cooking.turnOffFire();
 
 레스팅
 ```
-ingredients.chuckFlap.resting();
+ingredients.chuckFlap.resting(5, "min");
 ```
 
 ### Eating
