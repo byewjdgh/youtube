@@ -139,7 +139,7 @@ tools.dish.pourWithFilter(ingredients.tareSauce);
 
 ### Cleaning
 
-맛있게 드시고 정리 잘 해주세요.
+맛있게 드시고 정리 잘 해주세요. 
 
 ```
 cooking.cleanSinkAndTool();
