@@ -136,6 +136,11 @@ cooking.turnOffFire();
 cooking.turnOnFire();
 ```
 
+참기름 넣기
+```
+tools.pan.pour(ingredients.sesamiOil);
+```
+
 소고기 넣기
 ```
 tools.pan.pour(ingredients.beefMeat);
