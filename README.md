@@ -5,15 +5,15 @@
 
 ## 업로드 예정 유튜브 레시피 바로가기
 
-* [소고기무국 레시피](https://github.com/byewjdgh/youtube/tree/master/20221227.소고기무국)
+* [계란볶음밥 레시피](https://github.com/byewjdgh/youtube/tree/master/20221228.계란볶음밥)
 
 ## 최근 유튜브 레시피 바로가기
 
-* [우삼겹 덮밥 레시피](https://github.com/byewjdgh/youtube/tree/master/20221226.우삼겹%20덮밥)
-
-* [타레 레시피](https://github.com/byewjdgh/youtube/tree/master/소스레시피/타레)
+* [소고기무국 레시피](https://github.com/byewjdgh/youtube/tree/master/20221227.소고기무국)
 
 ## 레시피 바로가기
+
+* [계란볶음밥 레시피](https://github.com/byewjdgh/youtube/tree/master/20221228.계란볶음밥)
 
 * [소고기무국 레시피](https://github.com/byewjdgh/youtube/tree/master/20221227.소고기무국)
 
