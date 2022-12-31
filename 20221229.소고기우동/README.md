@@ -212,6 +212,11 @@ tools.bowl.pour(ingredients.udonNoodles);
 tools.bowl.pour(ingredients.udonSoup);
 ```
 
+우삼겹 넣기
+```
+tools.bowl.pour(ingredients.roastedShortPlate);
+```
+
 대파 넣기
 ```
 tools.bowl.pour(ingredients.greenOnion);
