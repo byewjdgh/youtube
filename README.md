@@ -5,13 +5,17 @@
 
 ## 업로드 예정 유튜브 레시피 바로가기
 
-* [소고기우동 레시피](https://github.com/byewjdgh/youtube/tree/master/20221229.소고기우동)
+* [바게트 치킨버거 레시피](https://github.com/byewjdgh/youtube/tree/master/20221230.바게트%20치킨버거)
+
+* [햄버거 소스 레시피](https://github.com/byewjdgh/youtube/tree/master/소스레시피/햄버거)
 
 ## 최근 유튜브 레시피 바로가기
 
-* [계란볶음밥 레시피](https://github.com/byewjdgh/youtube/tree/master/20221228.계란볶음밥)
+* [소고기우동 레시피](https://github.com/byewjdgh/youtube/tree/master/20221229.소고기우동)
 
 ## 레시피 바로가기
+
+* [바게트 치킨버거 레시피](https://github.com/byewjdgh/youtube/tree/master/20221230.바게트%20치킨버거)
 
 * [소고기우동 레시피](https://github.com/byewjdgh/youtube/tree/master/20221229.소고기우동)
 
@@ -54,6 +58,8 @@
 * [데미글라스 레시피](https://github.com/byewjdgh/youtube/tree/master/소스레시피/데미글라스)
 
 * [타레 레시피](https://github.com/byewjdgh/youtube/tree/master/소스레시피/타레)
+
+* [햄버거 소스 레시피](https://github.com/byewjdgh/youtube/tree/master/소스레시피/햄버거)
 
 ## Contributing
 
