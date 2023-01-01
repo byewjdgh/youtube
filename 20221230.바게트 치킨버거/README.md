@@ -51,18 +51,6 @@
 ```
 토마토
 ```
-```
-마요네즈
-```
-```
-케첩
-```
-```
-엘로우 머스타드
-```
-```
-꿀
-```
 
 ##### 조리도구
 ```
@@ -120,33 +108,6 @@ ingredients = cooking.readyIngredients();
 ```
 
 ### Cooking
-
-#### 햄버거 소스 만들기
-
-마요네즈 넣기
-```
-tools.bowl.pour(ingredients.mayonnaise);
-```
-
-케첩 넣기
-```
-tools.bowl.pour(ingredients.ketchup);
-```
-
-머스타드 넣기
-```
-tools.bowl.pour(ingredients.mustard);
-```
-
-꿀 넣기
-```
-tools.bowl.pour(ingredients.honey);
-```
-
-섞기
-```
-tools.bowl.mix();
-```
 
 #### 바게트 빵가루 만들기
 
