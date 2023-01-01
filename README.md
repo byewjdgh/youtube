@@ -7,7 +7,7 @@
 
 * [바게트 치킨버거 레시피](https://github.com/byewjdgh/youtube/tree/master/20221230.바게트%20치킨버거)
 
-* [햄버거 소스 레시피](https://github.com/byewjdgh/youtube/tree/master/소스레시피/햄버거)
+* [햄버거소스 레시피](https://github.com/byewjdgh/youtube/tree/master/소스레시피/햄버거소스)
 
 ## 최근 유튜브 레시피 바로가기
 
@@ -55,11 +55,11 @@
 
 * [갈릭드레싱 레시피](https://github.com/byewjdgh/youtube/tree/master/소스레시피/갈릭드레싱)
 
-* [데미글라스 레시피](https://github.com/byewjdgh/youtube/tree/master/소스레시피/데미글라스)
+* [데미글라스 레시피](https://github.com/byewjdgh/youtube/tree/master/소스레시피/데미글라스소스)
 
-* [타레 레시피](https://github.com/byewjdgh/youtube/tree/master/소스레시피/타레)
+* [타레 레시피](https://github.com/byewjdgh/youtube/tree/master/소스레시피/타레소스)
 
-* [햄버거 소스 레시피](https://github.com/byewjdgh/youtube/tree/master/소스레시피/햄버거)
+* [햄버거소스 레시피](https://github.com/byewjdgh/youtube/tree/master/소스레시피/햄버거소스)
 
 ## Contributing
 
