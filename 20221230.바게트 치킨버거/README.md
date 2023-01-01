@@ -16,6 +16,18 @@
 박력분 밀가루
 ```
 ```
+소금
+```
+```
+후추
+```
+```
+마늘 파우더
+```
+```
+파프리카 파우더
+```
+```
 계란
 ```
 ```
@@ -29,15 +41,6 @@
 ```
 ```
 버터
-```
-```
-소금
-```
-```
-후추
-```
-```
-파프리카 파우더
 ```
 ```
 양상추
@@ -63,9 +66,6 @@
 
 ##### 조리도구
 ```
-프라이팬
-```
-```
 냄비
 ```
 ```
@@ -76,9 +76,6 @@
 ```
 ```
 집게
-```
-```
-포크
 ```
 ```
 블렌더
@@ -175,6 +172,26 @@ tools.blender.blend();
 tools.dish.pour(ingredients.softFlour);
 ```
 
+소금 넣기
+```
+tools.dish.pour(ingredients.salt);
+```
+
+후추 넣기
+```
+tools.dish.pour(ingredients.);
+```
+
+파프리카 파우더 넣기
+```
+tools.dish.pour(ingredients.paprikaPpowder);
+```
+
+마늘 파우더 넣기
+```
+tools.dish.pour(ingredients.galricPpowder);
+```
+
 계란 넣기
 ```
 tools.dish2.pour(ingredients.egg);
@@ -207,9 +224,9 @@ cooking.turnOnFire();
 tools.pot.pour(ingredients.cookingOil);
 ```
 
-5분간 치킨 패티 튀기기
+치킨 패티 튀기기
 ```
-tools.pot.fry(ingredients.chickenPatty, 5, "min");
+tools.pot.fry(ingredients.chickenPatty);
 ```
 
 불 끄기
@@ -217,7 +234,7 @@ tools.pot.fry(ingredients.chickenPatty, 5, "min");
 cooking.turnOffFire();
 ```
 
-#### 바게트치킨버거 빵 만들기
+#### 바게트 번 만들기
 
 불 켜기
 ```
