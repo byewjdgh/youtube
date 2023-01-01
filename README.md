@@ -55,9 +55,9 @@
 
 * [갈릭드레싱 레시피](https://github.com/byewjdgh/youtube/tree/master/소스레시피/갈릭드레싱)
 
-* [데미글라스 레시피](https://github.com/byewjdgh/youtube/tree/master/소스레시피/데미글라스소스)
+* [데미글라스소스 레시피](https://github.com/byewjdgh/youtube/tree/master/소스레시피/데미글라스소스)
 
-* [타레 레시피](https://github.com/byewjdgh/youtube/tree/master/소스레시피/타레소스)
+* [타레소스 레시피](https://github.com/byewjdgh/youtube/tree/master/소스레시피/타레소스)
 
 * [햄버거소스 레시피](https://github.com/byewjdgh/youtube/tree/master/소스레시피/햄버거소스)
 
