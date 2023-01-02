@@ -80,7 +80,7 @@
 
 ### Initializing
 
-조리도구를 매우 많이 사용합니다. 정리를 잘해주세요.
+간단한 요리지만 정리는 해주세요.
 ```
 me      = Person.getInstance().cleanMind();
 cooking = Cooking.getInstance().cleanSinkAndTool();
@@ -199,8 +199,7 @@ me.eat();
 
 ### Cleaning
 
-오랜만에 힘든 요리를 했습니다. 잘따라하셨나요? 실패해도 괜찮습니다. 다음에 또 하시면 되니까요.
-정리 잘해주세요.
+싱거우시다면 조금 더 졸여주세요. 요리를 하면서 계속 맛을 봐야 감을 익힐 수 있습니다. 이제 정리해주세요.
 
 ```
 cooking.cleanSinkAndTool();
