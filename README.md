@@ -5,15 +5,18 @@
 
 ## 업로드 예정 유튜브 레시피 바로가기
 
+* [계란장조림 레시피](https://github.com/byewjdgh/youtube/tree/master/20230102.계란장조림)
+
+
+## 최근 유튜브 레시피 바로가기
+
 * [바게트 치킨버거 레시피](https://github.com/byewjdgh/youtube/tree/master/20221230.바게트%20치킨버거)
 
 * [햄버거소스 레시피](https://github.com/byewjdgh/youtube/tree/master/소스레시피/햄버거소스)
 
-## 최근 유튜브 레시피 바로가기
-
-* [소고기우동 레시피](https://github.com/byewjdgh/youtube/tree/master/20221229.소고기우동)
-
 ## 레시피 바로가기
+
+* [계란장조림 레시피](https://github.com/byewjdgh/youtube/tree/master/20230102.계란장조림)
 
 * [바게트 치킨버거 레시피](https://github.com/byewjdgh/youtube/tree/master/20221230.바게트%20치킨버거)
 
