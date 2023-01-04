@@ -176,8 +176,10 @@ cooking.turnOffFire();
 
 ### Plating
 
+김치찜 담기
+```
 tools.dish.plating(braisedKimchi);
-
+```
 ### Eating
 
 맛있게 먹기
