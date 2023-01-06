@@ -5,13 +5,15 @@
 
 ## 업로드 예정 유튜브 레시피 바로가기
 
-* [김치찜 레시피](https://github.com/byewjdgh/youtube/tree/master/20230104.김치찜)
+* [돈카츠 카레 레시피](https://github.com/byewjdgh/youtube/tree/master/20230105.돈카츠%20카레)
 
 ## 최근 유튜브 레시피 바로가기
 
-* [필리치즈스테이크 레시피](https://github.com/byewjdgh/youtube/tree/master/20230103.필리치즈스테이크)
+* [김치찜 레시피](https://github.com/byewjdgh/youtube/tree/master/20230104.김치찜)
 
 ## 레시피 바로가기
+
+* [돈카츠 카레 레시피](https://github.com/byewjdgh/youtube/tree/master/20230105.돈카츠%20카레)
 
 * [김치찜 레시피](https://github.com/byewjdgh/youtube/tree/master/20230104.김치찜)
 
