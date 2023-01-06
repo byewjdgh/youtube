@@ -150,7 +150,7 @@ tools.pan.pour(ingredients.water);
 
 카레 넣기
 ```
-tools.pan.pour(ingredients.curriPowder);
+tools.pan.pour(ingredients.curryPowder);
 ```
 
 버터 넣기
