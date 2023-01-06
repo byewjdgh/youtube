@@ -226,7 +226,7 @@ cooking.turnOffFire();
 
 돈카츠 카레 담기
 ```
-tools.dish.plating(braisedKimchi);
+tools.dish.plating(tonkatsuCurry);
 ```
 ### Eating
 
