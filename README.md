@@ -9,13 +9,13 @@
 
 ## 최근 유튜브 레시피 바로가기
 
-* [간짜장밥 레시피](https://github.com/byewjdgh/youtube/tree/master/20230106.간짜장밥)
+* [간짜장밥 레시피](https://github.com/byewjdgh/youtube/tree/master/20230107.간짜장밥)
 
 ## 레시피 바로가기
 
 * [가츠동 레시피](https://github.com/byewjdgh/youtube/tree/master/20230109.가츠동)
 
-* [간짜장밥 레시피](https://github.com/byewjdgh/youtube/tree/master/20230106.간짜장밥)
+* [간짜장밥 레시피](https://github.com/byewjdgh/youtube/tree/master/20230107.간짜장밥)
 
 * [돈카츠 카레 레시피](https://github.com/byewjdgh/youtube/tree/master/20230105.돈카츠%20카레)
 
