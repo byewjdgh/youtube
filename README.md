@@ -5,13 +5,15 @@
 
 ## 업로드 예정 유튜브 레시피 바로가기
 
-* [돈카츠 카레 레시피](https://github.com/byewjdgh/youtube/tree/master/20230105.돈카츠%20카레)
+* [간짜장밥 레시피](https://github.com/byewjdgh/youtube/tree/master/20230106.간짜장밥)
 
 ## 최근 유튜브 레시피 바로가기
 
-* [김치찜 레시피](https://github.com/byewjdgh/youtube/tree/master/20230104.김치찜)
+* [돈카츠 카레 레시피](https://github.com/byewjdgh/youtube/tree/master/20230105.돈카츠%20카레)
 
 ## 레시피 바로가기
+
+* [간짜장밥 레시피](https://github.com/byewjdgh/youtube/tree/master/20230106.간짜장밥)
 
 * [돈카츠 카레 레시피](https://github.com/byewjdgh/youtube/tree/master/20230105.돈카츠%20카레)
 
