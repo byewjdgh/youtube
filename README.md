@@ -5,13 +5,15 @@
 
 ## 업로드 예정 유튜브 레시피 바로가기
 
-* [가츠동 레시피](https://github.com/byewjdgh/youtube/tree/master/20230109.가츠동)
+* [핫도그 레시피](https://github.com/byewjdgh/youtube/tree/master/20230110.핫도그)
 
 ## 최근 유튜브 레시피 바로가기
 
-* [간짜장밥 레시피](https://github.com/byewjdgh/youtube/tree/master/20230107.간짜장밥)
+* [가츠동 레시피](https://github.com/byewjdgh/youtube/tree/master/20230109.가츠동)
 
 ## 레시피 바로가기
+
+* [핫도그 레시피](https://github.com/byewjdgh/youtube/tree/master/20230110.핫도그)
 
 * [가츠동 레시피](https://github.com/byewjdgh/youtube/tree/master/20230109.가츠동)
 
