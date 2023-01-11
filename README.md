@@ -5,13 +5,15 @@
 
 ## 업로드 예정 유튜브 레시피 바로가기
 
-* [핫도그 레시피](https://github.com/byewjdgh/youtube/tree/master/20230110.핫도그)
+* [크림 스파게티 레시피](https://github.com/byewjdgh/youtube/tree/master/20230110.크림%20스파게티)
 
 ## 최근 유튜브 레시피 바로가기
 
-* [가츠동 레시피](https://github.com/byewjdgh/youtube/tree/master/20230109.가츠동)
+* [핫도그 레시피](https://github.com/byewjdgh/youtube/tree/master/20230110.핫도그)
 
 ## 레시피 바로가기
+
+* [크림 스파게티 레시피](https://github.com/byewjdgh/youtube/tree/master/20230110.크림%20스파게티)
 
 * [핫도그 레시피](https://github.com/byewjdgh/youtube/tree/master/20230110.핫도그)
 
