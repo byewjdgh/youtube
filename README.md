@@ -5,13 +5,19 @@
 
 ## 업로드 예정 유튜브 레시피 바로가기
 
-* [부대찌개 레시피](https://github.com/byewjdgh/youtube/tree/master/20230112.부대찌개)
+* [아롱사태 수육국밥 레시피](https://github.com/byewjdgh/youtube/tree/master/20230113.아롱사태%20수육국밥)
+
+* [부추무침 레시피](https://github.com/byewjdgh/youtube/tree/master/20230113.부추무침)
 
 ## 최근 유튜브 레시피 바로가기
 
-* [매운갈비찜 레시피](https://github.com/byewjdgh/youtube/tree/master/20230111.매운갈비찜)
+* [부대찌개 레시피](https://github.com/byewjdgh/youtube/tree/master/20230112.부대찌개)
 
 ## 레시피 바로가기
+
+* [아롱사태 수육국밥 레시피](https://github.com/byewjdgh/youtube/tree/master/20230113.아롱사태%20수육국밥)
+
+* [부추무침 레시피](https://github.com/byewjdgh/youtube/tree/master/20230113.부추무침)
 
 * [부대찌개 레시피](https://github.com/byewjdgh/youtube/tree/master/20230112.부대찌개)
 
