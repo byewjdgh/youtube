@@ -158,6 +158,11 @@ cooking.turnOnFire();
 tools.pan.pour(ingredients.onion);
 ```
 
+김치 넣기
+```
+tools.pan.pour(ingredients.kimchi);
+```
+
 베이크드빈 넣기
 ```
 tools.pan.pour(ingredients.bakedBean);
