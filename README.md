@@ -5,15 +5,15 @@
 
 ## 업로드 예정 유튜브 레시피 바로가기
 
-* [오리불고기 레시피](https://github.com/byewjdgh/youtube/tree/master/20230116.오리불고기)
+* [오야꼬동 레시피](https://github.com/byewjdgh/youtube/tree/master/20230118.오야꼬동)
 
 ## 최근 유튜브 레시피 바로가기
 
-* [아롱사태 수육국밥 레시피](https://github.com/byewjdgh/youtube/tree/master/20230113.아롱사태%20수육국밥)
-
-* [부추무침 레시피](https://github.com/byewjdgh/youtube/tree/master/20230113.부추무침)
+* [오리불고기 레시피](https://github.com/byewjdgh/youtube/tree/master/20230116.오리불고기)
 
 ## 레시피 바로가기
+
+* [오야꼬동 레시피](https://github.com/byewjdgh/youtube/tree/master/20230118.오야꼬동)
 
 * [오리불고기 레시피](https://github.com/byewjdgh/youtube/tree/master/20230116.오리불고기)
 
