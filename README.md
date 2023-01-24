@@ -5,13 +5,15 @@
 
 ## 업로드 예정 유튜브 레시피 바로가기
 
-* [가라아게동 레시피](https://github.com/byewjdgh/youtube/tree/master/20230119.가라아게동)
+* [순두부 된장찌개 레시피](https://github.com/byewjdgh/youtube/tree/master/20230120.순두부%20된장찌개)
 
 ## 최근 유튜브 레시피 바로가기
 
-* [오야꼬동 레시피](https://github.com/byewjdgh/youtube/tree/master/20230118.오야꼬동)
+* [가라아게동 레시피](https://github.com/byewjdgh/youtube/tree/master/20230119.가라아게동)
 
 ## 레시피 바로가기
+
+* [순두부 된장찌개 레시피](https://github.com/byewjdgh/youtube/tree/master/20230120.순두부%20된장찌개)
 
 * [가라아게동 레시피](https://github.com/byewjdgh/youtube/tree/master/20230119.가라아게동)
 
