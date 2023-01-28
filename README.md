@@ -5,13 +5,15 @@
 
 ## 업로드 예정 유튜브 레시피 바로가기
 
-* [소보로 레시피](https://github.com/byewjdgh/youtube/tree/master/20230126.소보로)
+* [몽골리안 비프 레시피](https://github.com/byewjdgh/youtube/tree/master/20230127.몽골리안%20비프)
 
 ## 최근 유튜브 레시피 바로가기
 
-* [순두부 된장찌개 레시피](https://github.com/byewjdgh/youtube/tree/master/20230120.순두부%20된장찌개)
+* [소보로 레시피](https://github.com/byewjdgh/youtube/tree/master/20230126.소보로)
 
 ## 레시피 바로가기
+
+* [몽골리안 비프 레시피](https://github.com/byewjdgh/youtube/tree/master/20230127.몽골리안%20비프)
 
 * [소보로 레시피](https://github.com/byewjdgh/youtube/tree/master/20230126.소보로)
 
