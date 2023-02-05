@@ -13,6 +13,8 @@
 
 ## 레시피 바로가기
 
+* [소고기필라프 레시피](https://github.com/byewjdgh/youtube/tree/master/20230205.소고기필라프)
+
 * [몽골리안 비프 레시피](https://github.com/byewjdgh/youtube/tree/master/20230127.몽골리안%20비프)
 
 * [소보로 레시피](https://github.com/byewjdgh/youtube/tree/master/20230126.소보로)
