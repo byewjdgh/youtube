@@ -5,13 +5,15 @@
 
 ## 업로드 예정 유튜브 레시피 바로가기
 
-* [소고기필라프 레시피](https://github.com/byewjdgh/youtube/tree/master/20230205.소고기필라프)
+* [고추잡채 레시피](https://github.com/byewjdgh/youtube/tree/master/20230206.고추잡채)
 
 ## 최근 유튜브 레시피 바로가기
 
-* [몽골리안 비프 레시피](https://github.com/byewjdgh/youtube/tree/master/20230127.몽골리안%20비프)
+* [소고기필라프 레시피](https://github.com/byewjdgh/youtube/tree/master/20230205.소고기필라프)
 
 ## 레시피 바로가기
+
+* [고추잡채 레시피](https://github.com/byewjdgh/youtube/tree/master/20230206.고추잡채)
 
 * [소고기필라프 레시피](https://github.com/byewjdgh/youtube/tree/master/20230205.소고기필라프)
 
