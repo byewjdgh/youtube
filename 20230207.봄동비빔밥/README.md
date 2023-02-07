@@ -87,16 +87,6 @@ tools.mixingBowl.pour(ingredients.soySauce);
 tools.mixingBowl.pour(ingredients.sesameOil);
 ```
 
-소금 넣기
-```
-tools.mixingBowl.pour(ingredients.salt);
-```
-
-양파 넣기
-```
-tools.mixingBowl.pour(ingredients.onion);
-```
-
 밥 넣기
 ```
 tools.mixingBowl.pour(ingredients.boiledRice);
