@@ -74,7 +74,7 @@ ingredients = cooking.readyIngredients();
 
 봄동 넣기
 ```
-tools.pan.pour(ingredients.cabBage);
+tools.pan.pour(ingredients.bomdong);
 ```
 
 진간장 넣기
@@ -101,7 +101,7 @@ tools.mixingBowl.mix();
 
 봄동비빔밥 담기
 ```
-tools.dish.plating(cabBageBibimbap);
+tools.dish.plating(bomdongBibimbap);
 ```
 
 ### Eating
