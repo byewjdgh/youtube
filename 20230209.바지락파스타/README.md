@@ -91,30 +91,7 @@ ingredients = cooking.readyIngredients();
 
 #### 바지락파스타 만들기
 
-봄동 넣기
-```
-tools.pan.pour(ingredients.bomdong);
-```
 
-진간장 넣기
-```
-tools.mixingBowl.pour(ingredients.soySauce);
-```
-
-참기름 넣기
-```
-tools.mixingBowl.pour(ingredients.sesameOil);
-```
-
-밥 넣기
-```
-tools.mixingBowl.pour(ingredients.boiledRice);
-```
-
-섞기
-```
-tools.mixingBowl.mix();
-```
 
 ### Plating
 
