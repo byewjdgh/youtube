@@ -144,7 +144,7 @@ cooking.turnOffFire();
 
 바지락 스파게티 담기
 ```
-tools.dish.plating(clamSpaghetti);
+tools.dish.plating(manilaClamSpaghetti);
 ```
 
 ### Eating
