@@ -74,7 +74,7 @@
 
 ### Initializing
 
-어패류가 있으니 정리를 잘해주세요.
+어패류가 있으니 식중독 조심하시고, 정리를 잘해주세요.
 ```
 me      = Person.getInstance().cleanMind();
 cooking = Cooking.getInstance().cleanSinkAndTool();
