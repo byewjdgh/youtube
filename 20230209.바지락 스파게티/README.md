@@ -22,7 +22,7 @@
 마늘
 ```
 ```
-페퍼론치노
+페페론치노
 ```
 ```
 후추
@@ -105,7 +105,7 @@ tools.pan.pour(ingredients.extraVirginOliveOil);
 tools.pan.pour(ingredients.galric);
 ```
 
-패퍼론치노 넣기
+패페론치노 넣기
 ```
 tools.pan.pour(ingredients.peperoncino);
 ```
