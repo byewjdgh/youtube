@@ -5,13 +5,15 @@
 
 ## 업로드 예정 유튜브 레시피 바로가기
 
-* [봄동비빔밥 레시피](https://github.com/byewjdgh/youtube/tree/master/20230207.봄동비빔밥)
+* [바지락 스파게티 레시피](https://github.com/byewjdgh/youtube/tree/master/20230209.바지락%20스파게티)
 
 ## 최근 유튜브 레시피 바로가기
 
-* [고추잡채 레시피](https://github.com/byewjdgh/youtube/tree/master/20230206.고추잡채)
+* [봄동비빔밥 레시피](https://github.com/byewjdgh/youtube/tree/master/20230207.봄동비빔밥)
 
 ## 레시피 바로가기
+
+* [바지락 스파게티 레시피](https://github.com/byewjdgh/youtube/tree/master/20230209.바지락%20스파게티)
 
 * [봄동비빔밥 레시피](https://github.com/byewjdgh/youtube/tree/master/20230207.봄동비빔밥)
 
