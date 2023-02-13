@@ -5,13 +5,15 @@
 
 ## 업로드 예정 유튜브 레시피 바로가기
 
-* [수육 레시피](https://github.com/byewjdgh/youtube/tree/master/20230210.수육)
+* [돼지 김치찌개 레시피](https://github.com/byewjdgh/youtube/tree/master/20230212.돼지%20김치찌개)
 
 ## 최근 유튜브 레시피 바로가기
 
-* [바지락 스파게티 레시피](https://github.com/byewjdgh/youtube/tree/master/20230209.바지락%20스파게티)
+* [수육 레시피](https://github.com/byewjdgh/youtube/tree/master/20230210.수육)
 
 ## 레시피 바로가기
+
+* [돼지 김치찌개 레시피](https://github.com/byewjdgh/youtube/tree/master/20230212.돼지%20김치찌개)
 
 * [수육 레시피](https://github.com/byewjdgh/youtube/tree/master/20230210.수육)
 
