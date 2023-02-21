@@ -5,13 +5,15 @@
 
 ## 업로드 예정 유튜브 레시피 바로가기
 
-* [돼지 김치찌개 레시피](https://github.com/byewjdgh/youtube/tree/master/20230212.돼지%20김치찌개)
+* [마르게리타 피자 레시피](https://github.com/byewjdgh/youtube/tree/master/20230213.마르게리타%20피자)
 
 ## 최근 유튜브 레시피 바로가기
 
-* [수육 레시피](https://github.com/byewjdgh/youtube/tree/master/20230210.수육)
+* [돼지 김치찌개 레시피](https://github.com/byewjdgh/youtube/tree/master/20230212.돼지%20김치찌개)
 
 ## 레시피 바로가기
+
+* [마르게리타 피자 레시피](https://github.com/byewjdgh/youtube/tree/master/20230213.마르게리타%20피자)
 
 * [돼지 김치찌개 레시피](https://github.com/byewjdgh/youtube/tree/master/20230212.돼지%20김치찌개)
 
